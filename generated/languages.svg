@@ -99,7 +99,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3572A5;width: 56.988%;margin-right: 0.576%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 25.819%;margin-right: 0.527%;" class="progress-item"></span><span style="background-color: #e34c26;width: 8.776%;margin-right: 0.179%;" class="progress-item"></span><span style="background-color: #663399;width: 5.813%;margin-right: 0.119%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.912%;margin-right: 0.019%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.275%;margin-right: 0.000%;" class="progress-item"></span>
+<span style="background-color: #3572A5;width: 56.949%;margin-right: 0.575%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 25.868%;margin-right: 0.528%;" class="progress-item"></span><span style="background-color: #e34c26;width: 8.770%;margin-right: 0.179%;" class="progress-item"></span><span style="background-color: #663399;width: 5.809%;margin-right: 0.119%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.911%;margin-right: 0.019%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.275%;margin-right: 0.000%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -111,7 +111,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">57.56%</span>
+<span class="percent">57.52%</span>
 </li>
 
 
@@ -120,7 +120,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">26.35%</span>
+<span class="percent">26.40%</span>
 </li>
 
 
